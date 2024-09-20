@@ -1,2 +1,2 @@
-install.packages("dplyr") #Load many packages
+install.packages("dplyr") #Load fewer packages
 install.packages("ggplot2")
